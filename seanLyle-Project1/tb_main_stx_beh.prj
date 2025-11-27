@@ -1,0 +1,6 @@
+verilog isim_temp "coinDispenser.v"
+verilog isim_temp "BevDispenser.v"
+verilog isim_temp "../../CoinCounter/coinCounter.v"
+verilog isim_temp "main.v"
+verilog isim_temp "main_tb.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

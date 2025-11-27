@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/Shared/seanLyle-Project2/register_tb_isim_beh.exe" -prj "/home/ise/Shared/seanLyle-Project2/register_tb_beh.prj" "work.register_tb" "work.glbl" 
