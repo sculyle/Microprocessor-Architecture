@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Shared/TwoToFourDecoder/TwoToFourDecoder.xst" -ofn "/home/ise/Shared/TwoToFourDecoder/TwoToFourDecoder.syr" 
