@@ -1,0 +1,29 @@
+Command line:
+   threeInAnd_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  35295
+
+Fri Sep  5 18:20:18 2025
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 215.233 Meg
+
+ Total Signals          : 18
+ Total Nets             : 17
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 135
+Total Line Count : 26
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 292.831 Meg
+
+Fri Sep  5 18:21:50 2025
+
